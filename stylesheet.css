@@ -1,0 +1,11 @@
+.top-buffer {
+    margin-top: 50px;
+}
+
+body {
+    background: url('https://images.unsplash.com/photo-1584254520678-31fe4dce5306?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1351&q=80') no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+}
